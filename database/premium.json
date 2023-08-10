@@ -1,0 +1,398 @@
+{
+  "allcommand": [
+    "Menu",
+    "Ceuser",
+    "Cekuser",
+    "Listcmdlimit",
+    "Listuser",
+    "Getcase",
+    "Runtim3",
+    "Runtime",
+    "Menh",
+    "Addrem",
+    "Listprem",
+    "Addprem",
+    ".enu",
+    "Delprem",
+    "Menfes",
+    "Menfess",
+    "Stop",
+    "",
+    "Limit",
+    "Menud",
+    "Runtimw"
+  ],
+  "anonymous": [
+    {
+      "id": 1686034129916,
+      "a": "6285701012295@s.whatsapp.net",
+      "b": "6285693962423@s.whatsapp.net",
+      "state": "CHATTING",
+      "expired": "INFINITY"
+    },
+    {
+      "id": 1686037675090,
+      "a": "6281399670269@s.whatsapp.net",
+      "b": "",
+      "state": "WAITING",
+      "expired": 1686038470292
+    },
+    {
+      "id": 1686038217669,
+      "a": "6285778507153@s.whatsapp.net",
+      "b": "6283876437533@s.whatsapp.net",
+      "state": "CHATTING",
+      "expired": "INFINITY"
+    },
+    {
+      "id": 1686038843937,
+      "a": "6281249193303@s.whatsapp.net",
+      "b": "",
+      "state": "WAITING",
+      "expired": 1686039361342
+    },
+    {
+      "id": 1686047840027,
+      "a": "62881011035787@s.whatsapp.net",
+      "b": "Menfess6283865768130@s.whatsapp.net",
+      "state": "CHATTING",
+      "expired": "INFINITY"
+    }
+  ],
+  "blockcmd": [],
+  "banned": [],
+  "premium": [
+    {
+      "id": "6281312036478@s.whatsapp.net",
+      "expired": 1686888947726
+    },
+    {
+      "id": "6285701012295@s.whatsapp.net",
+      "expired": 1688625233124
+    },
+    {
+      "id": "6285778507153@s.whatsapp.net",
+      "expired": 1688629464369
+    },
+    {
+      "id": "6281327597493@s.whatsapp.net",
+      "expired": 1688630012291
+    },
+    {
+      "id": "62881011035787@s.whatsapp.net",
+      "expired": 1694680256373
+    },
+    {
+      "id": "6282121814998@s.whatsapp.net",
+      "expired": 1687925358394
+    },
+    {
+      "id": "6281384129925@s.whatsapp.net",
+      "expired": 1687925377857
+    },
+    {
+      "id": "6281252902537@s.whatsapp.net",
+      "expired": 1687925399026
+    },
+    {
+      "id": "6285859635687@s.whatsapp.net",
+      "expired": 1687577075981
+    },
+    {
+      "id": "6282269834270@s.whatsapp.net",
+      "expired": 1687577117748
+    },
+    {
+      "id": "6282256478910@s.whatsapp.net",
+      "expired": 1687577144149
+    },
+    {
+      "id": "6281359393542@s.whatsapp.net",
+      "expired": 1687519588962
+    },
+    {
+      "id": "6287753560380@s.whatsapp.net",
+      "expired": 1687519631599
+    },
+    {
+      "id": "62881038162319@s.whatsapp.net",
+      "expired": 1687519649702
+    }
+  ],
+  "claim": [],
+  "data": [
+    {
+      "name": "premium",
+      "id": []
+    },
+    {
+      "name": "commands",
+      "id": []
+    },
+    {
+      "name": "limit",
+      "id": []
+    }
+  ],
+  "sewa": [],
+  "antispam": [],
+  "dashboard": [
+    {
+      "cmd": "",
+      "succes": 1,
+      "failed": 0
+    },
+    {
+      "cmd": "Menu",
+      "succes": 1,
+      "failed": 0
+    },
+    {
+      "cmd": "Listprem",
+      "succes": 1,
+      "failed": 0
+    },
+    {
+      "cmd": "Addprem",
+      "succes": 3,
+      "failed": 0
+    }
+  ],
+  "listerror": [],
+  "sticker": {},
+  "audio": {},
+  "hittoday": [
+    {
+      "id": "run",
+      "expired": 1686569072504,
+      "totalcmd": 6
+    }
+  ],
+  "clearchat": [],
+  "users": {
+    "6289682500330@s.whatsapp.net": {
+      "name": "Bot confes private",
+      "id": "6289682500330",
+      "date": "5 Juni 2023",
+      "exp": 100,
+      "level": 1,
+      "hit": 0,
+      "balance": 1000,
+      "limit": 4,
+      "glimit": 4,
+      "serial": "N7QU",
+      "lastclaim": 0,
+      "afk": -1,
+      "pc": 0,
+      "grade": "Newbie",
+      "autolevelup": false,
+      "afkReason": ""
+    },
+    "6285773089737@s.whatsapp.net": {
+      "name": "Lana always ¯⁠◡⁠¯",
+      "id": "6285773089737",
+      "date": "5 Juni 2023",
+      "exp": 100,
+      "level": 1,
+      "hit": 62,
+      "balance": 1000,
+      "limit": 4,
+      "glimit": 4,
+      "serial": "MKR4",
+      "lastclaim": 0,
+      "afk": -1,
+      "pc": 1686482672564,
+      "grade": "Newbie",
+      "autolevelup": false,
+      "afkReason": ""
+    },
+    "6281775445373@s.whatsapp.net": {
+      "name": "lana lgi galau.",
+      "id": "6281775445373",
+      "date": "5 Juni 2023",
+      "exp": 100,
+      "level": 1,
+      "hit": 5,
+      "balance": 1000,
+      "limit": 4,
+      "glimit": 4,
+      "serial": "STU5",
+      "lastclaim": 0,
+      "afk": -1,
+      "pc": 0,
+      "grade": "Newbie",
+      "autolevelup": false,
+      "afkReason": ""
+    },
+    "6281312036478@s.whatsapp.net": {
+      "name": "A",
+      "id": "6281312036478",
+      "date": "6 Juni 2023",
+      "exp": 100,
+      "level": 1,
+      "hit": 4,
+      "balance": 1000,
+      "limit": 4,
+      "glimit": 4,
+      "serial": "GJMZ",
+      "lastclaim": 0,
+      "afk": -1,
+      "pc": 1686038849967,
+      "grade": "Newbie",
+      "autolevelup": false,
+      "afkReason": ""
+    },
+    "6285701012295@s.whatsapp.net": {
+      "name": "gtwxvy",
+      "id": "6285701012295",
+      "date": "6 Juni 2023",
+      "exp": 100,
+      "level": 1,
+      "hit": 3,
+      "balance": 1000,
+      "limit": 4,
+      "glimit": 4,
+      "serial": "QJIG",
+      "lastclaim": 0,
+      "afk": -1,
+      "pc": 1686034135922,
+      "grade": "Newbie",
+      "autolevelup": false,
+      "afkReason": ""
+    },
+    "6285778507153@s.whatsapp.net": {
+      "name": "chris",
+      "id": "6285778507153",
+      "date": "6 Juni 2023",
+      "exp": 100,
+      "level": 1,
+      "hit": 8,
+      "balance": 1000,
+      "limit": 4,
+      "glimit": 4,
+      "serial": "57UE",
+      "lastclaim": 0,
+      "afk": -1,
+      "pc": 1686037528191,
+      "grade": "Newbie",
+      "autolevelup": false,
+      "afkReason": ""
+    },
+    "6281327597493@s.whatsapp.net": {
+      "name": "~",
+      "id": "6281327597493",
+      "date": "6 Juni 2023",
+      "exp": 100,
+      "level": 1,
+      "hit": 2,
+      "balance": 1000,
+      "limit": 4,
+      "glimit": 4,
+      "serial": "NCB4",
+      "lastclaim": 0,
+      "afk": -1,
+      "pc": 1686038089182,
+      "grade": "Newbie",
+      "autolevelup": false,
+      "afkReason": ""
+    },
+    "6283876437533@s.whatsapp.net": {
+      "name": "YTTA",
+      "id": "6283876437533",
+      "date": "6 Juni 2023",
+      "exp": 100,
+      "level": 1,
+      "hit": 1,
+      "balance": 1000,
+      "limit": 4,
+      "glimit": 4,
+      "serial": "P7JJ",
+      "lastclaim": 0,
+      "afk": -1,
+      "pc": 0,
+      "grade": "Newbie",
+      "autolevelup": false
+    },
+    "62881011035787@s.whatsapp.net": {
+      "name": "~",
+      "id": "62881011035787",
+      "date": "6 Juni 2023",
+      "exp": 100,
+      "level": 1,
+      "hit": 3,
+      "balance": 1000,
+      "limit": 4,
+      "glimit": 4,
+      "serial": "KKEW",
+      "lastclaim": 0,
+      "afk": -1,
+      "pc": 1686047766264,
+      "grade": "Newbie",
+      "autolevelup": false,
+      "afkReason": ""
+    },
+    "6285156137901@s.whatsapp.net": {
+      "name": "DITTAZ",
+      "id": "6285156137901",
+      "date": "7 Juni 2023",
+      "exp": 100,
+      "level": 1,
+      "hit": 0,
+      "balance": 1000,
+      "limit": 4,
+      "glimit": 4,
+      "serial": "ZMHG",
+      "lastclaim": 0,
+      "afk": -1,
+      "pc": 0,
+      "grade": "Newbie",
+      "autolevelup": false,
+      "afkReason": ""
+    },
+    "6289513915702@s.whatsapp.net": {
+      "name": "bot Confess",
+      "id": "6289513915702",
+      "date": "11 Juni 2023",
+      "exp": 100,
+      "level": 1,
+      "hit": 0,
+      "balance": 1000,
+      "limit": 4,
+      "glimit": 4,
+      "serial": "CY8D",
+      "lastclaim": 0,
+      "afk": -1,
+      "pc": 0,
+      "grade": "Newbie",
+      "autolevelup": false,
+      "afkReason": ""
+    }
+  },
+  "chats": {},
+  "settings": {
+    "settingbot": {
+      "status": 1686482849702,
+      "setmenu": "document",
+      "docType": "docx",
+      "Qoted": "ftoko",
+      "autoBio": true,
+      "multi": true,
+      "prefix": "!",
+      "fake": "BOT CONFES V.4",
+      "autoblockcmd": false,
+      "fake1": "Extream",
+      "replyType": "web",
+      "setwelcome": "type11",
+      "autoReport": true,
+      "autoLevel": true,
+      "autoSticker": false
+    }
+  },
+  "kickon": {},
+  "others": {
+    "runtime": {
+      "runtime": 1686482601926,
+      "lastTime": 1686482841927
+    }
+  }
+}
